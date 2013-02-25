@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: John Crowe
+tagline: This is my github blog!
 ---
 {% include JB/setup %}
 
