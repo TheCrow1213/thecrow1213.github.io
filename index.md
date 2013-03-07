@@ -7,7 +7,7 @@ tagline: Microsoft MVP, Please Notice Me!
 
 ## About
 
-My name is `John Crowe` and I am a software developer and consultant at Sogeti USA.
+I'm John Crowe! I'm a entry level software developer and consultant at Sogeti USA. I work and play in Austin, TX. Its a pretty cool deal.
     
 ## Recent Posts
 
