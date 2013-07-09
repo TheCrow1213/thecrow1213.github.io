@@ -1,5 +1,5 @@
 /*SOCIAL MEDIA STUFF*/
-@media (min-width: 800px) {
+@media only screen and (min-width : 800px) {
     #social {
     	position: fixed;
     	top: 50px;
@@ -45,7 +45,7 @@
     }
 }
 
-@media (max-width: 800px) {
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     #social {
         text-align: center;
     }
@@ -73,7 +73,7 @@
     }
 }
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+@media only screen and (max-width : 800px) {
     #social {
         text-align: center;
     }
