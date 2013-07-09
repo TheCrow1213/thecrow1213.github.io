@@ -65,13 +65,14 @@ header a:hover, footer a:hover {
 	left: 5px;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 800px) {
 	#content {
+	    min-height: 280px;
     	text-align: right;
 	}
 }
 
-@media (max-width: 400px) {
+@media (max-width: 800px) {
 	#content {
 		text-align: left;
 	}

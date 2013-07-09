@@ -1,5 +1,5 @@
 /*SOCIAL MEDIA STUFF*/
-@media screen and (min-device-width: 480px) and (orientation: portrait) {
+@media (min-width: 800px) {
     #social {
     	position: fixed;
     	top: 50px;
@@ -45,7 +45,7 @@
     }
 }
 
-@media screen and (max-device-width: 480px) and (orientation: portrait) {
+@media (max-width: 800px) {
     #social {
         text-align: center;
     }
