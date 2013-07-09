@@ -72,3 +72,31 @@
         background: #000000;	
     }
 }
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    #social {
+        text-align: center;
+    }
+    #social ul {
+    	list-style-type: none;
+    	padding: 0;
+    }
+    #social ul li {
+        display: inline;
+    }
+    #google img {
+        background: #CE3D2C;
+    }
+    #twitter img {
+        background: #00ACEE;	
+    }
+    #coderwall img {
+        background: #333230;	
+    }
+    #linkedin img {
+        background: #007BB6;	
+    }
+    #github img {
+        background: #000000;	
+    }
+}
