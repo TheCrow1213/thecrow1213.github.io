@@ -5,7 +5,6 @@ description: "An introduction to my blog and its intentions."
 category: Introduction
 tags: []
 ---
-{% include JB/setup %}
 
 In the past week or so I was discussing the Microsoft MVP program with a fellow consultant. He said that at one point he had been nominated for MVP, but apparently didn't blog enough. So I figure that if I wanted to amount to anything as a consultant, that I'd better start blogging.
 

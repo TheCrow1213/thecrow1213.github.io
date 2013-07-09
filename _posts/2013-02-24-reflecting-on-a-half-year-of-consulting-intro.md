@@ -5,7 +5,6 @@ description: ""
 category: Consulting
 tags: []
 ---
-{% include JB/setup %}
 
 Background:
 

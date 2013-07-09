@@ -1,0 +1,82 @@
+body {
+    margin: 0px;
+}
+
+/*Fonts*/
+.sans {
+	font-family: 'Monda', sans-serif;
+}
+
+.serif {
+	font-family: 'Roboto Slab', serif;
+}
+
+/*HEADER STUFF*/
+header, footer {
+    font-weight: bold;
+	padding: 20px 10px 20px 10px;
+	
+	color: #000000;
+	background: #3D6AA2;
+}
+
+header {
+   font-size: 20px;
+   text-align: right;
+}
+
+footer {
+    font-size: 20px;
+    height: auto;
+}
+
+footer #me {
+	float: right;
+}
+
+footer #credits {
+	float: left;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+header a, footer a {
+	-webkit-transition: color 0.5s linear;
+}
+header a:hover, footer a:hover {
+	color: #FFFFFF;
+}
+
+/*Content*/
+#content ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+#content a {
+	position: relative;
+	-webkit-transition: all 0.1s ease-in-out;
+}
+
+#content a:hover {
+	left: 5px;
+}
+
+@media (min-width: 800px) {
+	#content {
+    	text-align: right;
+	}
+}
+
+@media (max-width: 800px) {
+	#content {
+		text-align: left;
+	}
+
+	#about {
+		text-align: center;
+	}
+}

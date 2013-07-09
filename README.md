@@ -1,3 +1,4 @@
-## My Blog!
+Template
+========
 
-I update this guy perodically. Hopefully I'll get around to changing the styles up a bit and making it my own!
+This is gonna be a template for my blog. Can't stand using someone elses template.

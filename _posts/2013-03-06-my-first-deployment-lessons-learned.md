@@ -5,7 +5,6 @@ description: "Things I learned from my first deployment"
 category: Development
 tags: [continuous integration, automation, testing]
 ---
-{% include JB/setup %}
 
 Two weekends ago I experienced my first code deployment at my client (and ever). I really don't know what I expected. I suppose I never really thought about the deployment much, assuming code just magically went to production at some point.
 

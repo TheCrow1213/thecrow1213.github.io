@@ -5,7 +5,6 @@ description: "Trying new things with Jekyll!"
 category: Projects
 tags: [github, jekyll, wordpress]
 ---
-{% include JB/setup %}
 
 Hello again!
 

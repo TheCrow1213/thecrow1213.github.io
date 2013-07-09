@@ -1,5 +1,10 @@
 ---
 layout: default
 ---
-{% include JB/setup %}
-{% include themes/the-minimum/post.html %}
+
+{% include sharing.html %}
+
+<div id="content" class="ten columns">
+	<h1>{{ page.title }}</h1>
+	{{ content }}
+</div>

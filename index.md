@@ -3,12 +3,7 @@ layout: page
 title: Home
 tagline: Microsoft MVP, Please Notice Me!
 ---
-{% include JB/setup %}
 
-## About
-
-I'm John Crowe! I'm a entry level software developer and consultant at Sogeti USA. I work and play in Austin, TX. Its a pretty cool deal.
-    
 ## Recent Posts
 
 <ul class="posts">

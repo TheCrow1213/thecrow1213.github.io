@@ -1,6 +1,39 @@
----
-theme :
-  name : the-minimum
----
-{% include JB/setup %}
-{% include themes/the-minimum/default.html %}
+<html>
+    <head>
+    	<title>{{ page.title }}</title>
+    	<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    
+        <link href='http://fonts.googleapis.com/css?family=Monda:400,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:700,400' rel='stylesheet' type='text/css'>
+        
+        <link href='/css/styles.css' rel='stylesheet' type='text/css'>
+        <link href='/css/connect.css' rel='stylesheet' type='text/css'>
+        <link href='/css/sharing.css' rel='stylesheet' type='text/css'>
+        <link href='/css/skeleton.css' rel='stylesheet' type='text/css'>
+        <link href='/css/layout.css' rel='stylesheet' type='text/css'>
+    </head>
+    <body>
+    
+        <header class="serif">
+            <a href="http://thecrow1213.github.io/">
+                <div>John Crowe</div>
+                <div>Developer and Austinite and Just a Normal Dude</div>
+            </a>
+        </header>
+        
+        <div class="container sans">
+            {{ content }}
+        </div>
+
+		{% include connect.html %}
+        
+        <footer class="serif">
+			<div id="me">Template by John Crowe :)</div>
+			<div id="credits">Powered by <a href="http://www.getskeleton.com/" target="_blank">Skeleton</a> and <a href="http://jekyllrb.com/" target="_blank">Jekyll</a></div>
+			<div style="clear: both;"></div>
+        </footer>
+        
+    </body>
+</html>
+
