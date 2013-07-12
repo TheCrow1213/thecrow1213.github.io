@@ -51,17 +51,17 @@ header a:hover, footer a:hover {
 }
 
 /*Content*/
-#content ul {
+#recent {
 	list-style-type: none;
 	padding: 0;
 }
 
-#content a {
+#recent a {
 	position: relative;
 	-webkit-transition: all 0.1s ease-in-out;
 }
 
-#content a:hover {
+#recent a:hover {
 	left: 5px;
 }
 
