@@ -24,9 +24,6 @@
         position: relative;
     	padding-left: 40px;
     	-webkit-transition: all 0.2s ease-in;
-    	
-    	-webkit-animation: pop 8s ease-out;
-	    -webkit-animation-delay: 2s;
     }
     #social ul li:hover {
         right: 40px;
@@ -45,14 +42,6 @@
     }
     #github img {
         background: #000000;	
-    }
-    
-    @-webkit-keyframes pop {
-        90% {right: 0px;}
-        93% {right: 16px;}
-        95% {right: 0px;}
-        98% {right: 12px;}
-        100% {right: 0px;}
     }
 }
 
