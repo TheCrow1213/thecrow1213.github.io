@@ -1,4 +1,6 @@
-Template
+thecrow1213.github.com
 ========
 
-This is gonna be a template for my blog. Can't stand using someone elses template.
+**John Crowe - Will Program For Coffee**
+
+This is my blog! Check it out! http://thecrow1213.github.io/
