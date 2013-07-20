@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oh, Hey! I'm Still Here."
-description: "Yeah, this took forever."
+description: "Bringing this blog back from the grave."
 category:
 tags:
 ---
