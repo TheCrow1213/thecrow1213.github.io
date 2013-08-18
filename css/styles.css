@@ -54,6 +54,18 @@ header a:hover, footer a:hover {
 	left: 5px;
 }
 
+.google {
+	background: #CE3D2C;
+}
+
+.twitter {
+	background: #00ACEE;
+}
+
+.linkedin {
+	background: #007BB6;
+}
+
 @media all and (min-width : 1000px) {
 	#background {
 		margin-top: 92px;

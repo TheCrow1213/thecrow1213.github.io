@@ -5,9 +5,11 @@
         cursor: pointer;
         height: 170px;
     }
-    
-    #shareButtons {
-        padding: 10px;
+
+    #sharing a {
+        margin: 5px;
+        padding: 5px;
+        color: white;
     }
     
     #triangle {
@@ -27,6 +29,7 @@
     }
     
     .arrow_box {
+        padding: 10px;
         position: relative;
         top: -40px;
         background: #FFFFFF;
@@ -70,5 +73,12 @@
 @media all and (min-width : 320px) and (max-width : 1000px) {
     #sharing {
         text-align: center;
+        padding-bottom: 20px;
+    }
+
+    #sharing a {
+        margin: 5px;
+        padding: 5px;
+        color: white;
     }
 }
