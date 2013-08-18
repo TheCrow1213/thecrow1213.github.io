@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+description: Sometimes you just need to kill your abstractions
+category: null
+tags: null
 ---
 
 ## The Dangers of Unnecessary Abstraction
