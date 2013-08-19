@@ -6,9 +6,7 @@ category: null
 tags: null
 ---
 
-## The Dangers of Unnecessary Abstraction
-
-### Sometimes you just need to kill your abstractions
+## Sometimes you just need to kill your abstractions
 
 I had an interesting experience this week...
 
