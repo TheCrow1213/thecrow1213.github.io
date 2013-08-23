@@ -1,3 +1,5 @@
+@import 'bourbon/bourbon';
+
 /*Working on share button stuff*/
 #sharing {
     a {
@@ -22,8 +24,8 @@
         border-top: 8px solid transparent;
         border-right: 16px solid black;
         border-bottom: 8px solid transparent;
-        -webkit-animation: bounce 8s infinite;
-        -webkit-animation-delay: 2s;
+        @include animation( bounce 8s infinite );
+        @include animation-delay( 2s );
     }
     
     #sharing:hover > .arrow_box {
@@ -38,7 +40,7 @@
         background: #FFFFFF;
         border: 4px solid #3D6AA2;
         opacity: 0;
-        -webkit-transition: all 0.2s ease-in;
+        @include transition( all 0.2s ease-in );
     }
     .arrow_box:after, .arrow_box:before {
         bottom: 100%;
@@ -64,7 +66,7 @@
         margin-left: -26px;
     }
     
-    @-webkit-keyframes bounce {
+    @include keyframes (bounce) {
         90% {padding-left: 0px;}
         93% {padding-left: 6px;}
         95% {padding-left: 0px;}

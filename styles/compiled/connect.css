@@ -12,20 +12,26 @@
     line-height: 0px; }
     #social ul {
       position: relative;
-      float: right;
-      right: -40px; }
+      float: right; }
       #social ul li {
         position: relative;
         padding-left: 40px;
-        -webkit-transition: all 0.2s ease-in; }
-      #social ul li:hover {
-        right: 40px; }
+        right: -40px;
+        -webkit-transition: all 0.2s ease-in;
+        -moz-transition: all 0.2s ease-in;
+        transition: all 0.2s ease-in; }
+        #social ul li:hover {
+          right: 0px; }
     #social h2 {
       position: relative;
       right: -80px;
       top: 170px;
       cursor: pointer;
-      -webkit-transform: rotate(-90deg); } }
+      -webkit-transform: rotate(-90deg);
+      -moz-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+      -o-transform: rotate(-90deg);
+      transform: rotate(-90deg); } }
 @media all and (min-width: 320px) and (max-width: 1000px) {
   #social {
     text-align: center; }

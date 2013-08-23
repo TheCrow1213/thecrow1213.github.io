@@ -1,4 +1,6 @@
 * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
 html, body {
@@ -19,6 +21,8 @@ header, footer {
   background: #3D6AA2; }
   header a, footer a {
     -webkit-transition: color 0.5s linear;
+    -moz-transition: color 0.5s linear;
+    transition: color 0.5s linear;
     border: none; }
   header a:hover, footer a:hover {
     color: #FFFFFF; }
@@ -38,9 +42,12 @@ a {
   #recent a {
     position: relative;
     border: none;
-    -webkit-transition: all 0.1s ease-in-out; }
-  #recent a:hover {
-    left: 5px; }
+    left: 0px;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out; }
+    #recent a:hover {
+      left: 5px; }
 
 blockquote p {
   font-style: italic; }
