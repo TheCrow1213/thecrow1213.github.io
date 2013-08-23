@@ -5,6 +5,8 @@
     top: 100px;
     right: 0px;
     line-height: 0px; }
+    #social a {
+      border: none; }
     #social ul {
       position: relative;
       float: right;

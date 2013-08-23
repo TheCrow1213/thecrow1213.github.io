@@ -6,7 +6,8 @@
     #sharing a {
       margin: 5px;
       padding: 5px;
-      color: white; }
+      color: white;
+      border: none; }
 
   #triangle {
     display: inline-block;
