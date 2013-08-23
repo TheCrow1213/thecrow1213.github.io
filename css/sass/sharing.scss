@@ -4,23 +4,23 @@
     #sharing {
         cursor: pointer;
         height: 170px;
+
+        a {
+            margin: 5px;
+            padding: 5px;
+            color: white;
+        }
     }
 
-    #sharing a {
-        margin: 5px;
-        padding: 5px;
-        color: white;
-    }
-    
     #triangle {
         display: inline-block;
         width: 0;
         height: 0;
         border-top: 8px solid transparent;
         border-right: 16px solid black;
-	    border-bottom: 8px solid transparent;
-	    -webkit-animation: bounce 8s infinite;
-	    -webkit-animation-delay: 2s;
+        border-bottom: 8px solid transparent;
+        -webkit-animation: bounce 8s infinite;
+        -webkit-animation-delay: 2s;
     }
     
     #sharing:hover > .arrow_box {
@@ -74,11 +74,11 @@
     #sharing {
         text-align: center;
         padding-bottom: 20px;
-    }
 
-    #sharing a {
-        margin: 5px;
-        padding: 5px;
-        color: white;
+        a {
+            margin: 5px;
+            padding: 5px;
+            color: white;
+        }
     }
 }

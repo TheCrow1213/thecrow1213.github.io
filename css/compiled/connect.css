@@ -1,0 +1,62 @@
+/*SOCIAL MEDIA STUFF*/
+@media all and (min-width: 1000px) {
+  #social {
+    position: fixed;
+    top: 100px;
+    right: 0px;
+    line-height: 0px; }
+    #social ul {
+      position: relative;
+      float: right;
+      right: -40px;
+      list-style-type: none; }
+      #social ul li {
+        position: relative;
+        padding-left: 40px;
+        -webkit-transition: all 0.2s ease-in; }
+      #social ul li:hover {
+        right: 40px; }
+    #social h2 {
+      position: relative;
+      right: -80px;
+      top: 170px;
+      cursor: pointer;
+      -webkit-transform: rotate(-90deg); }
+
+  #google img {
+    background: #CE3D2C; }
+
+  #twitter img {
+    background: #00ACEE; }
+
+  #coderwall img {
+    background: #333230; }
+
+  #linkedin img {
+    background: #007BB6; }
+
+  #github img {
+    background: #000000; } }
+@media all and (min-width: 320px) and (max-width: 1000px) {
+  #social {
+    text-align: center; }
+    #social ul {
+      list-style-type: none;
+      padding: 0; }
+      #social ul li {
+        display: inline; }
+
+  #google img {
+    background: #CE3D2C; }
+
+  #twitter img {
+    background: #00ACEE; }
+
+  #coderwall img {
+    background: #333230; }
+
+  #linkedin img {
+    background: #007BB6; }
+
+  #github img {
+    background: #000000; } }
