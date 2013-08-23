@@ -1,16 +1,18 @@
 /*Working on share button stuff*/
+#sharing {
+    a {
+        margin: 5px;
+        padding: 5px;
+        color: white;
+        border: none;
+    }
+}
+
 @media all and (min-width : 1000px) {
     
     #sharing {
         cursor: pointer;
         height: 170px;
-
-        a {
-            margin: 5px;
-            padding: 5px;
-            color: white;
-            border: none;
-        }
     }
 
     #triangle {
@@ -75,11 +77,5 @@
     #sharing {
         text-align: center;
         padding-bottom: 20px;
-
-        a {
-            margin: 5px;
-            padding: 5px;
-            color: white;
-        }
     }
 }

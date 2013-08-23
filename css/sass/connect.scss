@@ -1,4 +1,14 @@
 /*SOCIAL MEDIA STUFF*/
+#social{
+    a {
+        border: none;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+}
+
 @media all and (min-width : 1000px) {
     #social {
         position: fixed;
@@ -6,15 +16,10 @@
         right: 0px;
         line-height: 0px;
 
-        a {
-            border: none;
-        }
-
         ul {
             position: relative;
             float: right;
             right: -40px;
-            list-style-type: none;
 
             li {
                 position: relative;
@@ -36,48 +41,17 @@
             -webkit-transform: rotate(-90deg);
         }
     }
-    #google img {
-        background: #CE3D2C;
-    }
-    #twitter img {
-        background: #00ACEE;
-    }
-    #coderwall img {
-        background: #333230;
-    }
-    #linkedin img {
-        background: #007BB6;
-    }
-    #github img {
-        background: #000000;
-    }
 }
 
 @media all and (min-width : 320px) and (max-width : 1000px) {
     #social {
         text-align: center;
         ul {
-            list-style-type: none;
             padding: 0;
 
             li {
                 display: inline;
             }
         }
-    }
-    #google img {
-        background: #CE3D2C;
-    }
-    #twitter img {
-        background: #00ACEE;
-    }
-    #coderwall img {
-        background: #333230;
-    }
-    #linkedin img {
-        background: #007BB6;
-    }
-    #github img {
-        background: #000000;
     }
 }
