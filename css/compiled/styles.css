@@ -42,6 +42,13 @@ a {
   #recent a:hover {
     left: 5px; }
 
+blockquote p {
+  font-style: italic; }
+  blockquote p:before {
+    content: "~\""; }
+  blockquote p:after {
+    content: "\""; }
+
 .google {
   background: #CE3D2C; }
 
