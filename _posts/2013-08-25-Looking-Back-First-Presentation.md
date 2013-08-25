@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Looking Back: My First Code Camp Presentation"
 layout: post
 ---
@@ -16,17 +16,17 @@ My class was probably at least 75% capacity. And I was sure that most of the peo
 
 After going through all the slides I had prepared, I began receiving some questions. Most of them either concerned my opinions/preferences on different Inversion of Control tooling and techniques. It was an odd thing for me since I hardly consider myself an expert on any technical subject matter, especially since I've only been out of school a year and a half.
 
-I only go into detail about my nervousness and generally feeling uncomfortable about the talk because I assume its similar for anyone giving a talk for the first time. While I felt all these things, I was really driven to get involved. I was also constantly encouraged by my mentors and peers in the community, which was extremely helpful. I am constantly reminded how lucky I am to live in such a great city full of kick ass people in my field.
+I only go into detail about my nervousness and generally feeling uncomfortable about the talk because I assume its similar for anyone giving a talk for the first time. While I felt all these things, I was really driven to get involved. I was also constantly encouraged by my mentors and peers in the community, which was extremely helpful. I am constantly reminded of how lucky I am to live in such a great city full of kick ass people in my field.
 
 ## Just do it dude!
 
 It was all totally worth it. After the talk I had one guy tell me about how his team was having to go back and rework alot of their code to introduce more abstraction and make their code more testable, and asked me some questions. Several others told me they attended my talk and that they enjoyed it. I even had one guy come up to me at the end of the day and tell me my talk was the best talk he had heard and how it was so relevant to his situation and pains at work. [Blog posts about your talk can happen too.](http://tom-jaeschke.blogspot.com/2013/08/i-caught-end-of-talk-by-john-crowe-on.html)
 
-I left the camp feeling so pumped! I'm seriously not trying to toot my own horn or anything. If anything its a testament to how awesome this field and this community is.
+I left the camp feeling so pumped! I'm seriously not trying to toot my own horn or anything. If anything its a testament to how awesome this community is.
 
 ## Everyone has a story to tell.
 
-My talk wasn't perfect, and I received some fantastic feedback on how I can refine it. Whats important is that no matter how nervous you may be or how rudimentary your topic may be, someone can/will benefit from what you have to say.
+My talk wasn't perfect, and I received some fantastic feedback on how I can refine it (see tips at the bottom of this article). Whats important is that no matter how nervous you may be or how rudimentary your topic may be, someone can/will benefit from what you have to say.
 
 ## Some useful information
 
@@ -34,3 +34,4 @@ My talk wasn't perfect, and I received some fantastic feedback on how I can refi
 - [Remote Buddy](http://www.iospirit.com/products/remotebuddy/), a cool tool for using WiiMotes and such as presentation remotes. (via [Wayne Denier](http://rightbrainleft.net/))
 - Tip: Add extra slides/content for backup in case you have time to go into it. Makes your presentation more elastic so you can accomodate for questions or lack thereof.
 - Tip: When live coding, have examples/checkpoints in their own local git branches. This way you can easily show working examples with just switching branches instead of making things work on the fly. (via [Mahendra Mavani](http://mahendramavani.com))
+- [Polyglot Programmers](http://polyglotprogrammers.org/): An excellent group for beginners to learn and practice giving technical presentations. Its pretty chill! Has Houston and Austin chapters.
