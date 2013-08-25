@@ -7,12 +7,14 @@
 @media all and (min-width: 1000px) {
   #social {
     position: fixed;
-    top: 100px;
+    top: 130px;
     right: 0px;
     line-height: 0px; }
     #social ul {
       position: relative;
-      float: right; }
+      float: right;
+      padding: 0px;
+      margin: 0px; }
       #social ul li {
         position: relative;
         padding-left: 40px;
@@ -23,9 +25,10 @@
         #social ul li:hover {
           right: 0px; }
     #social h2 {
-      position: relative;
-      right: -80px;
-      top: 170px;
+      position: absolute;
+      width: 250px;
+      right: -100px;
+      top: 95px;
       cursor: pointer;
       -webkit-transform: rotate(-90deg);
       -moz-transform: rotate(-90deg);

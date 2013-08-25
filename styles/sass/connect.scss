@@ -14,13 +14,15 @@
 @media all and (min-width : 1000px) {
     #social {
         position: fixed;
-        top: 100px;
+        top: 130px;
         right: 0px;
         line-height: 0px;
 
         ul {
             position: relative;
             float: right;
+            padding: 0px;
+            margin: 0px;
 
             li {
                 position: relative;
@@ -35,9 +37,10 @@
         }
 
         h2 {
-            position: relative;
-            right: -80px;
-            top: 170px;
+            position: absolute;
+            width: 250px;
+            right: -100px;
+            top: 95px;
             cursor: pointer;
 
             @include transform( rotate(-90deg) );
