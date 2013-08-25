@@ -1,7 +1,7 @@
 ---
 published: false
+title: "Looking Back: My First Code Camp Presentation"
+layout: post
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Everyone has a story to tell!
