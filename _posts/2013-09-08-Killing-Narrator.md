@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: How to give Windows Narrator a terrible and painful death
 ---
 
