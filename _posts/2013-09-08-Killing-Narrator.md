@@ -1,7 +1,7 @@
 ---
+layout: post
 published: true
 title: How to give Windows Narrator a terrible and painful death
-layout: post
 ---
 
 ## It will not be an honorable death.
