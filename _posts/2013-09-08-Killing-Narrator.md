@@ -10,8 +10,8 @@ While I was in the speaker room preparing for my talk before Austin Code Camp, I
 
 Anyways, thought I'd share with this with all you lovely people :]
 
-### Find that [*explitive noun*]
-For me, that little [*another explitive*] was hiding in my System32 folder (C:\Windows\System32).
+### Find that *explitive noun*
+For me, that little *another explitive* was hiding in my System32 folder (C:\Windows\System32).
 
 ![Whoops! Image didn't load](https://lh5.googleusercontent.com/ZR8wfBengw2SgFB-gBkIH7v5i9KzrMP8pgT5n0PZmANIE8QzBT14ithEMKZ7eiybWw=w1828-h808)
 
