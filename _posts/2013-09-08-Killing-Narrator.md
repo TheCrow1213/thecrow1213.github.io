@@ -1,6 +1,7 @@
 ---
 published: true
 title: How to give Windows Narrator a terrible and painful death
+layout: post
 ---
 
 ## It will not be an honorable death.
@@ -29,4 +30,4 @@ Click ok all the way down. Windows will probably complain about security and stu
 ### Kill it with fire
 Delete it and you're done!
 
-Well that was fun wasn't it? 
+Well that was fun wasn't it?
