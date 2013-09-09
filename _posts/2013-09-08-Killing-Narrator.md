@@ -13,12 +13,12 @@ Anyways, thought I'd share with this with all you lovely people :]
 ### Find that [*explitive noun*]
 For me, that little [*another explitive*] was hiding in my System32 folder (C:\Windows\System32).
 
-![Whoops! Image didn't load](https://docs.google.com/file/d/0B77SPp78ooL1bzZxLWVMMVZXZnc/edit?usp=sharing)
+![Whoops! Image didn't load](https://lh4.googleusercontent.com/TFLaWC6lPySVgcZC7yflkDYCMqIbQOym517fXzjeRSqYElY9V2nlFXtVt2nLYhbEAQ=w1085-h780)
 
 ### Own that guy.
 If you try and delete Narrator.exe, Windows won't let you. We need to take ownership of the file.
 Right click -> Properties -> Security tab -> Advanced button
-![Whoops! Image didn't load](https://docs.google.com/file/d/0B77SPp78ooL1a1g4VDBaNlN3d2c/edit?usp=sharing)
+![Whoops! Image didn't load](https://lh3.googleusercontent.com/7M0tpyV5aOQuaJylwwyuWjjWcS7CHRkLzYViZQStRcmo16qGo-Sna2b_5CD22cuYtQ=w1484-h780)
 Click the 'change' link and make yourself the user, or any group that you belong to (Administrators, Users, whatever)
 
 ### All the permissions
