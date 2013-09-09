@@ -13,17 +13,17 @@ Anyways, thought I'd share with this with all you lovely people :]
 ### Find that [*explitive noun*]
 For me, that little [*another explitive*] was hiding in my System32 folder (C:\Windows\System32).
 
-![Whoops! Image didn't load](https://lh5.googleusercontent.com/ZR8wfBengw2SgFB-gBkIH7v5i9KzrMP8pgT5n0PZmANIE8QzBT14ithEMKZ7eiybWw=w1828-h808)
+![Whoops! Image didn't load](https://docs.google.com/file/d/0B77SPp78ooL1bzZxLWVMMVZXZnc/edit?usp=sharing)
 
 ### Own that guy.
 If you try and delete Narrator.exe, Windows won't let you. We need to take ownership of the file.
 Right click -> Properties -> Security tab -> Advanced button
-![Whoops! Image didn't load](https://lh6.googleusercontent.com/vEr53nXXCv8i6k3FrztCcF7ew7jgTIuH1Kr_3N5nKQ8ggNKKO-NZPQ6LtR4oSvyNIg=w1828-h808)
+![Whoops! Image didn't load](https://docs.google.com/file/d/0B77SPp78ooL1a1g4VDBaNlN3d2c/edit?usp=sharing)
 Click the 'change' link and make yourself the user, or any group that you belong to (Administrators, Users, whatever)
 
 ### All the permissions
 Give the new owner of the file the appropriate permissions (Select the user and click edit, then give the user full permissions).
-![Whoops! Image didn't load](https://lh5.googleusercontent.com/R4FVmyjh_TT6rtZ3tRkhE9xoc3ClR8bRR-v6947xfHk-MCjpCGnCRL85b8YCEvkeaQ=w1828-h808)
+![Whoops! Image didn't load](https://lh6.googleusercontent.com/8uOsy7UzOFZO6681VMCmRBssc_icoGAKLzVzvy0Biqdi9YGFur0f-TcflwJ0Y-xhcA=w1085-h780)
 
 Click ok all the way down. Windows will probably complain about security and stuff. 
 
